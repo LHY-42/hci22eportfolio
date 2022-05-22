@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 /* blockquote source:https://codepen.io/jupago/pen/GPxqLX
 -------------------------------------------------------------*/
-body { 
+.blockquote-bg { 
   background-color: #292a2b;
  }
 
