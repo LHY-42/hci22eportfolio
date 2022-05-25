@@ -1,2 +1,2 @@
-# hci22eportfolio
-E-Portfolio for 2022 Student-Led Festival
+# hcieportfolio
+E-Portfolio template for  Student-Led Festival
